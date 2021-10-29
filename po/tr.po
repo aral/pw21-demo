@@ -1,0 +1,42 @@
+# Turkish translations for com.github.aral.pw21_demo package.
+# Copyright (C) 2021 THE com.github.aral.pw21_demo'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.aral.pw21_demo package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.aral.pw21_demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-29 18:37+0100\n"
+"PO-Revision-Date: 2021-10-29 18:37+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/pw21_demo.desktop.in:5 data/pw21_demo.appdata.xml.in:12
+msgid "PW21 demo"
+msgstr ""
+
+#: data/pw21_demo.desktop.in:6
+msgid "demo"
+msgstr ""
+
+#: data/pw21_demo.desktop.in:7
+msgid "great"
+msgstr ""
+
+#: data/pw21_demo.desktop.in:10
+msgid "com.github.aral.pw21_demo"
+msgstr ""
+
+#: data/pw21_demo.desktop.in:12
+msgid "wonderful"
+msgstr ""
+
+#: data/pw21_demo.appdata.xml.in:13 data/pw21_demo.appdata.xml.in:15
+msgid "excellent"
+msgstr ""
