@@ -1,3 +1,3 @@
 src/Application.vala
-data/{GITHUB.APP}.desktop.in
-data/{GITHUB.APP}.appdata.xml.in
+data/pw21_demo.desktop.in
+data/pw21_demo.appdata.xml.in
